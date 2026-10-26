@@ -190,8 +190,8 @@ The NeuroChurn dashboard provides:
 ## 👨‍💻 Author
 
 **Ayush**  
-- **GitHub**: [@Ayush-216](https://github.com/Ayush-216)  
-- **Email**: [exploretheuniverse216@gmail.com](mailto:exploretheuniverse216@gmail.com)
+  
+
 
 ---
 
